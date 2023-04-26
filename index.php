@@ -2,7 +2,7 @@
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
-    <title>Analiza sprzedaży</title>
+    <title>Analiza sprzedaży - Bartek</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -17,7 +17,7 @@
 	<div class="main">
 		<div class="banner">
 			<h1 class="naglowek1">
-				MY MARKET
+				Fajny Market
 			</h1>
 			<h3 class="naglowek2">
 				 - analiza sprzedaży sklepu internetowego
@@ -25,7 +25,7 @@
 		</div>
 		<div class="orders">
 			<div class="lewy">
-				<h3 class="titles">Analiza zamówień</h3>
+				<h3 class="titles">Analiza zamówień... Ale czy na pewno?</h3>
 				<hr>
 				<form action="index.php" method="POST">
 				<label for="firstname">Podaj imię</label>
